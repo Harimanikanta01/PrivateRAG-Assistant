@@ -37,3 +37,6 @@ Enterprise document search
 Internal knowledge assistants
 Resume/document analysis bots
 Customer support automation
+<img width="1360" height="768" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/13caf865-fb4d-4d14-9745-804fabe2c086" />
+<img width="1360" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/674ace87-61a9-4099-84ee-561519a18a7d" />
+
