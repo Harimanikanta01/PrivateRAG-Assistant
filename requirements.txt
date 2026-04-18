@@ -1,0 +1,7 @@
+fastapi
+langchain
+pypdf
+google-genai
+python-dotenv
+sentence-transformers
+faiss-cpu
